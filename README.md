@@ -24,3 +24,8 @@ The purpose of this project is ________. (Use meteorological data to predict the
 - data processing/cleaning
 - statistical modeling
 - writeup/reporting
+
+
+
+## Contact  
+* [MyLinkedin](https://www.linkedin.com/in/chukwuemeka-okereke-324b78173/)
